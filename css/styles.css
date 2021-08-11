@@ -49,6 +49,16 @@ button {
   color: #fff;
 }
 
+button:hover {
+  color: #1a2236;
+  background-color: #fff;
+}
+
+button:active {
+  color: #1a2236;
+  background-color: #fff;
+}
+
 .home-img {
   width: 100%;
   height: auto;
