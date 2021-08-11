@@ -2,7 +2,7 @@
 
 This is a portfolio site inspired by figma
 
-![screenshot](/images/mob-screenshot.png)
+![screenshot](/images/mob-screenshot.PNG)
 
 # <div align="center"><a href="https://fobadara.github.io/portfolio-template-5/" text="bold">Live Demo</a></div>
 
