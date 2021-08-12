@@ -60,6 +60,8 @@ button:active {
 }
 
 .home-img {
-  width: 100%;
-  height: auto;
+  background: url("../images/home.svg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 160px;
 }

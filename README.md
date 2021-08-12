@@ -60,9 +60,7 @@ You can run tests by following these steps:
 
 GitHub: [@fobadara](https://github.com/fobadara)
 
-Twitter: [@fob90s](fob90s@twitter.com)
-
-Linkedin: [Abdulfatai Badara](www.linkedin.com/in/abdulfatai-badara-84a5791b4)
+Linkedin: [Abdulfatai Badara](https://linkedin.com/in/abdulfatai-badara-84a5791b4)
 
 ## 🤝 Contributing
 
