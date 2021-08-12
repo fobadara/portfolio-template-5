@@ -1,0 +1,5 @@
+# Files here are ignored by git
+
+node_modules/
+
+test.md
