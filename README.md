@@ -10,7 +10,7 @@ This is a portfolio site inspired by figma
 
 ![Live demo](/gif/temp5.gif)
 
-A site showing some of my best works structured beautifully. This site is fully responsive and compatible to all screen sizes and all device. A combination of flexbox and grid are used to bring this site to life. It is divided into a navigation section, an homepage section, a work section, an about section and a footer section.
+>A site showing some of my best works structured beautifully. This site is fully responsive and compatible to all screen sizes and all device. A combination of flexbox and grid are used to bring this site to life. It is divided into a navigation section, an homepage section, a work section, an about section and a footer section. 
 
 # Built With
 
