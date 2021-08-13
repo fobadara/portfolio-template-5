@@ -109,6 +109,10 @@ button:active {
   width: 20em;
 }
 
+.proj-cont img {
+  width: 100%;
+}
+
 .proj-txt-cont {
   background-color: #1a2236;
   display: flex;
